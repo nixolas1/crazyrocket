@@ -1,0 +1,9 @@
+ideer:
+man kan lande med bakdelen av raketten, men tar fra "livet" til raketten
+man kan plukke opp upgrades og special powers (time warp, udødlig)
+man kan upgrade romskipet, bedre og mer kontrollert svinging, mer liv, lavere maksfart
+man kan få hjelpegreier, vise veien,
+
+puzzles: aktivere knapper, fly fort nok til å knuse glass, smelte ting med flammen, portals, fuel som går tomt (Tid), begrenset antall knappetrykk
+
+action: eksplosjon som tar deg igjen,
